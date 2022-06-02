@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Register</title>
+<title>Register1</title>
 </head>
 <body>
-<h1>Register</h1>
+<h1>Register1</h1>
 <form action="guru_register" method="post">
 			<table style="with: 50%">
 				<tr>
